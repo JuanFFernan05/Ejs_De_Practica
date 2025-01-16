@@ -1,1 +1,3 @@
-Inicie mi primer repositorio. Estoy viendo como se trabaja con GitHub mediante VSC
+¡Bienvenido a mi repositorio personal de GitHub!
+
+En el mismo, voy guardando registro de programas personales a medida que aprendo nuevos entornos de desarrollo.
