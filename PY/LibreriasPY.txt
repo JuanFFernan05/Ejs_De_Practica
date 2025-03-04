@@ -1,0 +1,65 @@
+LIBRERIAS EXISTENTES:
+
+Librerías de manipulación de datos:
+- pandas: Manejo de datos tabulares
+- numpy: Operaciones con matrices y arreglos
+- openpyxl: Lectura y escritura de archivos Excel
+- csv: Manejo de archivos CSV
+
+
+
+Librerías de procesamiento de texto y archivos:
+- re: Expresiones regulares
+- os: Interacción con el sistema de archivos
+- shutil: Operaciones avanzadas con archivos y directorios
+- pathlib: Manejo moderno de rutas de archivos
+
+
+
+Librerías para desarrollo web:
+- flask: Framework web ligero
+- django: Framework web robusto y escalable
+- fastapi: API web de alto rendimiento
+- requests: Realizar peticiones HTTP
+
+
+
+Librerías de ciencia de datos y Machine Learning:
+- matplotlib: Gráficos y visualización
+- seaborn: Visualización avanzada de datos
+- scikit-learn: Machine Learning
+- tensorflow: Redes neuronales y Deep Learning
+- torch: Deep Learning con PyTorch
+- statsmodels: Modelos estadísticos avanzados
+
+
+
+Librerías para automatización y web scraping:
+- selenium: Automatización de navegadores
+- beautifulsoup4: Web scraping (extraer datos de sitios web)
+- pyautogui: Control automático de mouse y teclado
+- pytesseract: OCR (reconocimiento de texto en imágenes)
+
+
+
+Librerías de redes y seguridad:
+- socket: Programación de redes (TCP/UDP)
+- paramiko: Conexiones SSH
+- scapy: Análisis y manipulación de paquetes de red
+- hashlib: Cifrado y hashing
+
+
+
+Librerías para paralelismo y alto rendimiento:
+- multiprocessing: Procesos en paralelo
+- threading: Manejo de hilos
+- asyncio: Programación asíncrona
+- numba: Aceleración de código con JIT
+
+
+
+Librerías para juegos y gráficos:
+- pygame: Desarrollo de videojuegos
+- tkinter: Interfaz gráfica nativa de Python
+- PyQt5: Creación de interfaces gráficas avanzadas
+- kivy: Desarrollo de interfaces gráficas modernas
