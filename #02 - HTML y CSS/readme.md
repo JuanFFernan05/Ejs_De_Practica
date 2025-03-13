@@ -1,0 +1,1 @@
+# Aclaración: al día de la fecha (13/03/2025) no estoy tan involucrado en tareas de modelado web. Por ende, no hay tanto trabajo de por medio. La idea, a futuro, es incluir JavaScript.
